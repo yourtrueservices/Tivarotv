@@ -1,0 +1,6 @@
+{
+  "versionCode": 2,
+  "versionName": "0.1.1",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.1.apk",
+  "notes": "Adds the signed admin catalog registry, multi-add-on metadata fallback, external subtitles, stream headers, and compatibility isolation."
+}
