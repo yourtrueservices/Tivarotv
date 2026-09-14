@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "0.1.4",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.4.apk",
-  "notes": "Restores the verified admin-managed stream registry and adds a remote-friendly server selector. Movies and shows can automatically fail over or be switched manually while preserving playback position."
+  "versionCode": 6,
+  "versionName": "0.1.5",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.5.apk",
+  "notes": "Improves movie and show playback compatibility with browser-style stream requests, reliable three-attempt failover, a 20-second stalled-server timeout, and a remote-friendly server selector that preserves playback position."
 }
