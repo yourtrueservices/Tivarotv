@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "0.1.1",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.1.apk",
-  "notes": "Adds the signed admin catalog registry, multi-add-on metadata fallback, external subtitles, stream headers, and compatibility isolation."
+  "versionCode": 3,
+  "versionName": "0.1.2",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.2.apk",
+  "notes": "Adds a BlueStacks-compatible launcher, reliable automatic provider selection, admin-managed direct-stream playback, and a cinematic Movies and Shows interface. IPTV providers remain live-channels-only."
 }
