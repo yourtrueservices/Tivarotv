@@ -4,7 +4,7 @@ Tivaro-TV is a remote-first Android TV and Fire TV player for customers using cr
 
 ## Download
 
-[Download Tivaro-TV 0.1.2](releases/Tivaro-TV-0.1.2.apk)
+[Download Tivaro-TV 0.1.3](releases/Tivaro-TV-0.1.3.apk)
 
 The application does not include IPTV credentials or channel lists. A valid provider profile is required before its interface unlocks.
 

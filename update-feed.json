@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "0.1.2",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.2.apk",
-  "notes": "Adds a BlueStacks-compatible launcher, reliable automatic provider selection, admin-managed direct-stream playback, and a cinematic Movies and Shows interface. IPTV providers remain live-channels-only."
+  "versionCode": 4,
+  "versionName": "0.1.3",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.3.apk",
+  "notes": "Fixes movie and show playback by trying every authorized direct source in order, retrying each source up to three times, and automatically switching when a source fails. Playback status and final errors are now visible."
 }
