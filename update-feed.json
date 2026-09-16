@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "0.1.6",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.6.apk",
-  "notes": "Adds an animated startup experience, a mixed featured carousel, improved Continue Watching and history controls, resume and remembered sources, advanced subtitles, automatic future update downloads, and a Fire TV-compatible movie/show playback fallback."
+  "versionCode": 8,
+  "versionName": "0.1.7",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.7.apk",
+  "notes": "Improves Fire TV remote navigation and focus restoration, adds hold-to-confirm Favorites and history actions, hides Live TV overlays after two seconds, and fixes add-on stream discovery when configured sources share an internal ID."
 }
