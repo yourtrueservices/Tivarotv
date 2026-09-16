@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "0.1.8",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.8.apk",
-  "notes": "Adds seamless best-stream selection, restores complete Fire TV player remote navigation, improves Favorite confirmation, and prioritizes PenguPlay for automatic movie and show playback while preserving manually selected sources."
+  "versionCode": 11,
+  "versionName": "0.1.9",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.1.9.apk",
+  "notes": "Refines TV navigation and search keyboard behavior, adds clearer 10-second player controls and subtitle focus indicators, closes player menus with one Back press while preserving choices, and prevents standby during active movie or show playback."
 }
