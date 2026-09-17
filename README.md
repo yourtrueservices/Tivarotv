@@ -4,9 +4,9 @@ Tivaro-TV is a remote-first Android TV and Fire TV player for customers using cr
 
 ## Download
 
-[Download Tivaro-TV 0.1.9](releases/Tivaro-TV-0.1.9.apk)
+[Download Tivaro-TV 0.2.0](releases/Tivaro-TV-0.2.0.apk)
 
-Version 0.1.9 refines the top navigation and TV search keyboard, introduces clearer 10-second playback controls and high-contrast subtitle-menu focus, preserves active player choices when menus close, and keeps Fire TV awake while a movie or show is actively playing. Future updates are downloaded automatically when Tivaro-TV opens; Fire OS then asks the user to confirm installation.
+Version 0.2.0 fixes modal history confirmation and reliable vertical catalog navigation, makes player menus close directly to unobstructed video with one Back press, and adds a server selector to movie and show details with Pengu preferred when available. Future updates are downloaded automatically when Tivaro-TV opens; Fire OS then asks the user to confirm installation.
 
 The application does not include IPTV credentials or channel lists. A valid provider profile is required before its interface unlocks.
 
