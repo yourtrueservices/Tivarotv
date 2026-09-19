@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "0.2.0",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.0.apk",
-  "notes": "Fixes modal history confirmation and vertical catalog navigation, makes player menus close to video with one Back press, and adds a pre-play server selector with Pengu preferred when available."
+  "versionCode": 15,
+  "versionName": "0.2.3",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.3.apk",
+  "notes": "Introduces Tivaro's Nuvio-style home, search, and title details experience with richer TMDB metadata, cast pages, seasons and episodes, in-app trailers, persistent watch progress, and the existing Fire TV-friendly playback controls. Live TV, login, and provider settings remain unchanged."
 }
