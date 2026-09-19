@@ -1,6 +1,6 @@
 {
-  "versionCode": 15,
-  "versionName": "0.2.3",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.3.apk",
-  "notes": "Introduces Tivaro's Nuvio-style home, search, and title details experience with richer TMDB metadata, cast pages, seasons and episodes, in-app trailers, persistent watch progress, and the existing Fire TV-friendly playback controls. Live TV, login, and provider settings remain unchanged."
+  "versionCode": 16,
+  "versionName": "0.2.4",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.4.apk",
+  "notes": "Corrects Fire TV D-pad navigation and instant top-tab switching, adds Tivaro's animated poster-ribbon startup screen, and upgrades in-app trailers to reliable high-quality video with separate audio. The app now opens Home only after its catalogs are ready. Live TV playback, login, provider settings, and existing viewing controls remain unchanged."
 }
