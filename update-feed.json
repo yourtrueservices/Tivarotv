@@ -1,6 +1,6 @@
 {
-  "versionCode": 17,
-  "versionName": "0.2.5",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.5.apk",
-  "notes": "Restores exact one-step focus and scroll return across browsing, details, playback, Favorites, and Live TV; smooths D-pad rails; simplifies history-removal dialogs; persists subtitle choices; adds a final-150-second next-episode prompt and automatic episode advance; improves Continue Watching details and server focus. Live TV playback sources, login, providers, and admin manifests remain unchanged."
+  "versionCode": 18,
+  "versionName": "0.2.6",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.6.apk",
+  "notes": "Fixes Fire TV updates by requesting the required one-time install permission and automatically resuming the prepared installation on return. Startup is faster with a shorter splash minimum and parallel movie/show catalog loading. Live TV, playback sources, login, providers, and admin manifests remain unchanged."
 }
