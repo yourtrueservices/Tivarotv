@@ -1,6 +1,6 @@
 {
-  "versionCode": 18,
-  "versionName": "0.2.6",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.6.apk",
-  "notes": "Fixes Fire TV updates by requesting the required one-time install permission and automatically resuming the prepared installation on return. Startup is faster with a shorter splash minimum and parallel movie/show catalog loading. Live TV, playback sources, login, providers, and admin manifests remain unchanged."
+  "versionCode": 19,
+  "versionName": "0.2.7",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.7.apk",
+  "notes": "Makes movie and show detail controls immediately navigable before trailers begin, returns Back to the exact originating Movies or Shows position, corrects featured-title line spacing, and replaces the poster-ribbon startup background with a clean black Tivaro logo-and-name reveal with a left-to-right shine. Live TV, playback, updater, manifests, admin, and login remain unchanged."
 }
