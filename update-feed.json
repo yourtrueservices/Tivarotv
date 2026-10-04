@@ -1,6 +1,6 @@
 {
-  "versionCode": 20,
-  "versionName": "0.2.8",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.8.apk",
-  "notes": "Keeps movie and show playback tied to its details page, shows season, episode, and elapsed time when resuming, reliably adds newly watched episodes to Continue Watching, and offers Media3 or Compatibility (MPV) when a stream needs another player. Live TV, manifests, admin, login, and updater behavior remain unchanged."
+  "versionCode": 21,
+  "versionName": "0.2.9",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/main/releases/Tivaro-TV-0.2.9.apk",
+  "notes": "Adds a signed, centrally managed provider-link switch that preserves saved customer credentials, plus the previously prepared Movies and Shows D-pad navigation stabilization. Live TV behavior is unchanged."
 }
