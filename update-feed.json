@@ -1,6 +1,6 @@
 {
-  "versionCode": 23,
-  "versionName": "0.2.11",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/59d287a/releases/Tivaro-TV-0.2.11.apk",
-  "notes": "Makes centrally published IPTV link changes reliable on slower Fire Sticks by bypassing stale caches, allowing a longer signed-config fetch, and matching the old provider domain even when the saved address includes a port or path. Settings account details remain available; Live TV and playback are unchanged."
+  "versionCode": 24,
+  "versionName": "0.2.12",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/bc582db/releases/Tivaro-TV-0.2.12.apk",
+  "notes": "Makes supplier-controlled IPTV link changes reliable without customer action. On the next app opening, matching profiles switch from the published old link to the new link while keeping usernames, passwords, MAC addresses, profile names, favorites, and history. Live TV, movies, shows, and navigation are otherwise unchanged."
 }
