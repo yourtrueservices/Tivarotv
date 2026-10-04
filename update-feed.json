@@ -1,6 +1,6 @@
 {
-  "versionCode": 22,
-  "versionName": "0.2.10",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/deadabf/releases/Tivaro-TV-0.2.10.apk",
-  "notes": "Settings now shows each saved account's profile name, current IPTV link, username or MAC, and a securely masked password so provider-link changes can be confirmed. Live TV and login behavior are unchanged."
+  "versionCode": 23,
+  "versionName": "0.2.11",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/59d287a/releases/Tivaro-TV-0.2.11.apk",
+  "notes": "Makes centrally published IPTV link changes reliable on slower Fire Sticks by bypassing stale caches, allowing a longer signed-config fetch, and matching the old provider domain even when the saved address includes a port or path. Settings account details remain available; Live TV and playback are unchanged."
 }
