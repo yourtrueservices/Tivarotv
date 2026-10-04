@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "0.2.12",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/bc582db/releases/Tivaro-TV-0.2.12.apk",
-  "notes": "Makes supplier-controlled IPTV link changes reliable without customer action. On the next app opening, matching profiles switch from the published old link to the new link while keeping usernames, passwords, MAC addresses, profile names, favorites, and history. Live TV, movies, shows, and navigation are otherwise unchanged."
+  "versionCode": 25,
+  "versionName": "0.2.13",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/66046e5/releases/Tivaro-TV-0.2.13.apk",
+  "notes": "Fixes centrally published IPTV link replacement so an older cached setting can never overwrite the newest signed setting. Matching profiles switch automatically on app opening while all customer credentials and app data remain unchanged."
 }
