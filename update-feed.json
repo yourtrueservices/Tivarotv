@@ -1,6 +1,6 @@
 {
-  "versionCode": 21,
-  "versionName": "0.2.9",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/c44cbc1/releases/Tivaro-TV-0.2.9.apk",
-  "notes": "Adds a signed, centrally managed provider-link switch that preserves saved customer credentials, plus the previously prepared Movies and Shows D-pad navigation stabilization. Live TV behavior is unchanged."
+  "versionCode": 22,
+  "versionName": "0.2.10",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/deadabf/releases/Tivaro-TV-0.2.10.apk",
+  "notes": "Settings now shows each saved account's profile name, current IPTV link, username or MAC, and a securely masked password so provider-link changes can be confirmed. Live TV and login behavior are unchanged."
 }
