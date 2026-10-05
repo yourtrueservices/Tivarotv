@@ -1,6 +1,6 @@
 {
-  "versionCode": 26,
-  "versionName": "0.2.14",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/300eb4b/releases/Tivaro-TV-0.2.14.apk",
-  "notes": "Adds stable per-profile support codes in Settings. The Tivaro-TV Admin panel can now publish a replacement IPTV server link for one matching customer profile; the app applies it on opening without changing credentials, favorites, or history."
+  "versionCode": 27,
+  "versionName": "0.2.15",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/2b79ef9/releases/Tivaro-TV-0.2.15.apk",
+  "notes": "Makes customer-link synchronization resilient by trying three verified public routes and retrying during startup. Settings now displays whether link synchronization completed or was unavailable instead of failing silently."
 }
