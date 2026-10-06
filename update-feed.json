@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "0.2.16",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/af755e74aac3b46a5c329b382780d720aeae0205/releases/Tivaro-TV-0.2.16.apk",
-  "notes": "Adds confirmed support-code link updates through the Tivaro homelab service. Customer credentials, favourites, history, and profile data remain on the device."
+  "versionCode": 29,
+  "versionName": "0.2.17",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/6b237da2d208f8e3b9045c4ad9ca0e411b5b4f05/releases/Tivaro-TV-0.2.17.apk",
+  "notes": "Stops playback when Tivaro leaves the foreground, keeps Fire TV awake during active Live TV playback, prevents hidden navigation from stealing remote focus, and restores the previous title or Live TV position when returning from playback."
 }
