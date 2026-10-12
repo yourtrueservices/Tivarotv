@@ -1,6 +1,6 @@
 {
-  "versionCode": 31,
-  "versionName": "0.2.19",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/7f5518ce3ede622170c8dc2158387382a1281a91/releases/Tivaro-TV-0.2.19.apk",
-  "notes": "Includes the full admin add-on list for fresh installations, opens title pages at the artwork with Play near the bottom, prevents trailer focus capture, and adds Check for updates in Settings."
+  "versionCode": 32,
+  "versionName": "0.2.20",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/4b7ccfc7de4ba6aad9d1466c10ef3c6d8ca30e21/releases/Tivaro-TV-0.2.20.apk",
+  "notes": "Fixes Home-screen bobbing while scrolling titles left and right, and getting stuck when navigating up between Home catalog rows. Keeps the existing layout and features."
 }
