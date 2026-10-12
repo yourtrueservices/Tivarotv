@@ -1,6 +1,6 @@
 {
-  "versionCode": 30,
-  "versionName": "0.2.18",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/8ffd44dbdd5a5fb1db31ae56accce20b01c63fc3/releases/Tivaro-TV-0.2.18.apk",
-  "notes": "Stops playback when Tivaro leaves the foreground, keeps Fire TV awake during active Live TV playback, prevents hidden navigation from stealing remote focus, and restores the previous title or Live TV position when returning from playback."
+  "versionCode": 31,
+  "versionName": "0.2.19",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/7f5518ce3ede622170c8dc2158387382a1281a91/releases/Tivaro-TV-0.2.19.apk",
+  "notes": "Includes the full admin add-on list for fresh installations, opens title pages at the artwork with Play near the bottom, prevents trailer focus capture, and adds Check for updates in Settings."
 }
