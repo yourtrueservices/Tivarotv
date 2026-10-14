@@ -1,6 +1,6 @@
 {
-  "versionCode": 32,
-  "versionName": "0.2.20",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/4b7ccfc7de4ba6aad9d1466c10ef3c6d8ca30e21/releases/Tivaro-TV-0.2.20.apk",
-  "notes": "Fixes Home-screen bobbing while scrolling titles left and right, and getting stuck when navigating up between Home catalog rows. Keeps the existing layout and features."
+  "versionCode": 33,
+  "versionName": "0.2.21",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/f309b89d3dc1e0704e3f05e82f8fc048ccdd6582/releases/Tivaro-TV-0.2.21.apk",
+  "notes": "Adds full release dates, US maturity ratings, country, original language, formatted runtime, and a yellow IMDb badge to title details where available. Uses a clean metadata font in the existing information area. No release-status labels or navigation changes."
 }
