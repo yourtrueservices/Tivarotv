@@ -1,6 +1,6 @@
 {
-  "versionCode": 33,
-  "versionName": "0.2.21",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/f309b89d3dc1e0704e3f05e82f8fc048ccdd6582/releases/Tivaro-TV-0.2.21.apk",
-  "notes": "Adds full release dates, US maturity ratings, country, original language, formatted runtime, and a yellow IMDb badge to title details where available. Uses a clean metadata font in the existing information area. No release-status labels or navigation changes."
+  "versionCode": 34,
+  "versionName": "0.2.22",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/1bcb8225f37bb940ba77bed6b67af3fa835ba819/releases/Tivaro-TV-0.2.22.apk",
+  "notes": "Adds Explore type/genre filters, an active-provider checkmark, a separate IPTV Movies/Series library, and live playback fallback across HLS/TS and two players (up to eight attempts). Adds device-local live TS recording now or on a one-time schedule, with a Recordings tab. One recording at a time, up to six hours; requires device power, internet, storage and a free provider connection. Recording now closes live viewing. No multi-screen, catch-up or new catalogs."
 }
