@@ -1,6 +1,6 @@
 {
-  "versionCode": 34,
-  "versionName": "0.2.22",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/1bcb8225f37bb940ba77bed6b67af3fa835ba819/releases/Tivaro-TV-0.2.22.apk",
-  "notes": "Adds Explore type/genre filters, an active-provider checkmark, a separate IPTV Movies/Series library, and live playback fallback across HLS/TS and two players (up to eight attempts). Adds device-local live TS recording now or on a one-time schedule, with a Recordings tab. One recording at a time, up to six hours; requires device power, internet, storage and a free provider connection. Recording now closes live viewing. No multi-screen, catch-up or new catalogs."
+  "versionCode": 35,
+  "versionName": "0.2.23",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/fa4e956c4fc0400bb1b7c76a347e0539a6d776c5/releases/Tivaro-TV-0.2.23.apk",
+  "notes": "Improves remote navigation, IPTV library and poster return focus, search-field navigation, row scrolling and focus visibility. Adds simpler recording day/time selectors and fixes a time-selection crash. Improves player controls and subtitle navigation, overlaps startup loading, and displays available title-logo artwork. Existing providers, built-in sources, recordings and remote support remain unchanged."
 }
