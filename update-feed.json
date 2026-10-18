@@ -1,6 +1,6 @@
 {
-  "versionCode": 35,
-  "versionName": "0.2.23",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/fa4e956c4fc0400bb1b7c76a347e0539a6d776c5/releases/Tivaro-TV-0.2.23.apk",
-  "notes": "Improves remote navigation, IPTV library and poster return focus, search-field navigation, row scrolling and focus visibility. Adds simpler recording day/time selectors and fixes a time-selection crash. Improves player controls and subtitle navigation, overlaps startup loading, and displays available title-logo artwork. Existing providers, built-in sources, recordings and remote support remain unchanged."
+  "versionCode": 36,
+  "versionName": "0.2.24",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/b721646fd0a22b0b22dcd77868db8e13370145f8/releases/Tivaro-TV-0.2.24.apk",
+  "notes": "Improves next episode controls, recording and favorites focus, recently watched removal, and version display. Filters additional explicit words from regular movie and show titles and searches. IPTV browsing and existing live channel content filtering remain unchanged."
 }
