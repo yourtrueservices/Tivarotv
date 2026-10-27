@@ -1,6 +1,6 @@
 {
-  "versionCode": 36,
-  "versionName": "0.2.24",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/b721646fd0a22b0b22dcd77868db8e13370145f8/releases/Tivaro-TV-0.2.24.apk",
-  "notes": "Improves next episode controls, recording and favorites focus, recently watched removal, and version display. Filters additional explicit words from regular movie and show titles and searches. IPTV browsing and existing live channel content filtering remain unchanged."
+  "versionCode": 37,
+  "versionName": "0.2.25",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/6fdbd32a5443a9ec6ecefe440bec88cb3e5c807d/releases/Tivaro-TV-0.2.25.apk",
+  "notes": "Improves TV navigation, focus restoration, startup speed, playback source memory and fallback, next-episode controls, subtitle syncing, recording controls, and Live TV browsing. Adds a three-panel Live TV layout with global channel search and preview while preserving the existing eight-attempt channel recovery. IPTV Movies and Series remain separate from Tivaro's regular library."
 }
