@@ -1,6 +1,6 @@
 {
-  "versionCode": 39,
-  "versionName": "0.2.27",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/a3b2097d96e5bf703f9ee96bad4e19f4d56c9ffc/releases/Tivaro-TV-0.2.27.apk",
-  "notes": "Performance and navigation update with lighter catalog rendering across Home, Movies, Shows, and Search, plus deterministic three-panel Live TV focus and position restoration. Leaving Live TV now stops its preview while returning restores the remembered category and channel. Existing layout, playback engines, authentication, recordings, IPTV Movies and Series, and eight-attempt Live TV recovery remain unchanged."
+  "versionCode": 40,
+  "versionName": "0.2.28",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/bda7dec68beb49b36dd2f6074ac6b67a116b768c/releases/Tivaro-TV-0.2.28.apk",
+  "notes": "Stability and remote-navigation update: Live TV now starts cleanly from its header and ALL category on every visit, preserves exact positions only within the current visit, and has deterministic category, channel, preview, OK, Back, and fullscreen-control focus. Details, Search rows, manual subtitle delay, and Automatic Subtitle Sync navigation were corrected; sync now keeps playback running and supports authenticated external SRT, VTT, ASS, and TTML dialogue. Existing provider systems, recordings, IPTV Movies and Series, players, and eight-attempt Live TV recovery remain unchanged."
 }
