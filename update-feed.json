@@ -1,6 +1,6 @@
 {
-  "versionCode": 40,
-  "versionName": "0.2.28",
-  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/bda7dec68beb49b36dd2f6074ac6b67a116b768c/releases/Tivaro-TV-0.2.28.apk",
-  "notes": "Stability and remote-navigation update: Live TV now starts cleanly from its header and ALL category on every visit, preserves exact positions only within the current visit, and has deterministic category, channel, preview, OK, Back, and fullscreen-control focus. Details, Search rows, manual subtitle delay, and Automatic Subtitle Sync navigation were corrected; sync now keeps playback running and supports authenticated external SRT, VTT, ASS, and TTML dialogue. Existing provider systems, recordings, IPTV Movies and Series, players, and eight-attempt Live TV recovery remain unchanged."
+  "versionCode": 41,
+  "versionName": "0.2.29",
+  "apkUrl": "https://raw.githubusercontent.com/yourtrueservices/Tivarotv/6328a44ee2fa5cd2adb46c852aac28aa982b0261/releases/Tivaro-TV-0.2.29.apk",
+  "notes": "Automatic Subtitle Sync now uses the exact external subtitle selected by the viewer instead of guessing among tracks with the same language. Subtitle requests retain the active source headers, and sync timing includes reaction compensation while preserving the existing manual subtitle delay. Playback, navigation, Live TV, IPTV, recordings, catalogs, and user data remain unchanged."
 }
